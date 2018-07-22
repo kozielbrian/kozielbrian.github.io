@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Applied Cryptography",
+    "Cryptographic Engineering",
+    "Post-Quantum Cryptography"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Computer Engineering"
+  institution = "Rochester Institute of Technology"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Computer Engineering"
+  institution = "Rochester Institute of Technology"
+  year = 2016
  
 +++
 
 # Biography
+Hello! I'm Brian Koziel. I love solving difficult security problems with cryptography. By day, I deploy secure cryptography in Texas Instrument's IoT devices. By night, I research post-quantum cryptography. Recently, I have been actively investigating applications, security, and implementations of __isogeny-based cryptography__. Please see my publications section and CV for more details.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am proud to be part of the [Supersingular Isogeny Key Encapsulation](sike.org) (__SIKE__) submission team. You can follow our proposal's path to standardization in [NIST's post-quantum cryptography standardization project](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
