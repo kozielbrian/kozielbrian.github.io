@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Brian Koziel</title>
+    <link>https://kozielbrian.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Brian Koziel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 21 Jul 2018 23:54:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://kozielbrian.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A High-Performance and Scalable Hardware Architecture for Isogeny-Based Cryptography</title>
+      <link>https://kozielbrian.github.io/publication/ieee-tc-pqc/</link>
+      <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/ieee-tc-pqc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-Quantum Cryptography on FPGA Based on Isogenies on Elliptic Curves</title>
+      <link>https://kozielbrian.github.io/publication/ieee-tcas-2017/</link>
+      <pubDate>Sun, 22 Jan 2017 00:25:01 -0400</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/ieee-tcas-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

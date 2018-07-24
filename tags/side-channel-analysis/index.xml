@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Side-Channel Analysis on Brian Koziel</title>
+    <link>https://kozielbrian.github.io/tags/side-channel-analysis/</link>
+    <description>Recent content in Side-Channel Analysis on Brian Koziel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 22 Aug 2017 00:40:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://kozielbrian.github.io/tags/side-channel-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Side-Channel Attacks on Quantum-Resistant Supersingular Isogeny Diffie-Hellman</title>
+      <link>https://kozielbrian.github.io/publication/sac-2017/</link>
+      <pubDate>Tue, 22 Aug 2017 00:40:17 -0400</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/sac-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Secure Implementations of Quantum-Resistant Supersingular Isogeny Diffie-Hellman</title>
+      <link>https://kozielbrian.github.io/publication/host-2017/</link>
+      <pubDate>Mon, 22 May 2017 01:31:51 -0400</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/host-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

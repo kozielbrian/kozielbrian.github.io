@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Key Compression on Brian Koziel</title>
+    <link>https://kozielbrian.github.io/tags/key-compression/</link>
+    <description>Recent content in Key Compression on Brian Koziel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 22 Jun 2016 00:55:04 -0400</lastBuildDate>
+    
+	<atom:link href="https://kozielbrian.github.io/tags/key-compression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Key Compression for Isogeny-Based Cryptosystems</title>
+      <link>https://kozielbrian.github.io/publication/asiapkc-2016/</link>
+      <pubDate>Wed, 22 Jun 2016 00:55:04 -0400</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/asiapkc-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

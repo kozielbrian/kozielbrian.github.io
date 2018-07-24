@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assembly Implementation on Brian Koziel</title>
+    <link>https://kozielbrian.github.io/tags/assembly-implementation/</link>
+    <description>Recent content in Assembly Implementation on Brian Koziel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 22 Nov 2016 01:08:04 -0400</lastBuildDate>
+    
+	<atom:link href="https://kozielbrian.github.io/tags/assembly-implementation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NEON-SIDH: Efficient Implementation of Supersingular Isogeny Diffie-Hellman Key Exchange Protocol on ARM</title>
+      <link>https://kozielbrian.github.io/publication/cans-2016/</link>
+      <pubDate>Tue, 22 Nov 2016 01:08:04 -0400</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/cans-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

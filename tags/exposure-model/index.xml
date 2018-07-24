@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exposure Model on Brian Koziel</title>
+    <link>https://kozielbrian.github.io/tags/exposure-model/</link>
+    <description>Recent content in Exposure Model on Brian Koziel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:34:03 -0400</lastBuildDate>
+    
+	<atom:link href="https://kozielbrian.github.io/tags/exposure-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Exposure Model for Supersingular Isogeny Diffie-Hellman Key Exchange</title>
+      <link>https://kozielbrian.github.io/publication/ct-rsa-2017/</link>
+      <pubDate>Sun, 22 Apr 2018 00:34:03 -0400</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/ct-rsa-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
