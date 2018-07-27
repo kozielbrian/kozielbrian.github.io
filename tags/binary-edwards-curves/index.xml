@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 22 Dec 2015 01:22:22 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 24 May 2016 21:31:23 -0500</lastBuildDate>
     
 	<atom:link href="https://kozielbrian.github.io/tags/binary-edwards-curves/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Low-Resource and Fast Elliptic Curve Implementations over Binary Edwards Curves</title>
+      <link>https://kozielbrian.github.io/publication/ms-thesis/</link>
+      <pubDate>Tue, 24 May 2016 21:31:23 -0500</pubDate>
+      
+      <guid>https://kozielbrian.github.io/publication/ms-thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Low-Resource and Fast Binary Edwards Curves Cryptography</title>
