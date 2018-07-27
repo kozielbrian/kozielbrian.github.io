@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Brian Koziel</title>
-    <link>https://kozielbrian.github.io/home/</link>
+    <link>https://www.kozielbrian.com/home/</link>
     <description>Recent content in Homes on Brian Koziel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://kozielbrian.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kozielbrian.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://kozielbrian.github.io/home/about/</link>
+      <link>https://www.kozielbrian.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/home/about/</guid>
+      <guid>https://www.kozielbrian.com/home/about/</guid>
       <description>Biography Hello! I love solving difficult security problems with cryptography. By day, I deploy secure cryptography in Texas Instrument&amp;rsquo;s IoT devices. By night, I research post-quantum cryptography. Recently, I have been actively investigating applications, security, and implementations of isogeny-based cryptography. Please see my publications section and CV for more details. Outside of cryptography, I love running, rock climbing, and immersing myself in new cultures.
 I am proud to be part of the Supersingular Isogeny Key Encapsulation (SIKE) submission team.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://kozielbrian.github.io/home/publications/</link>
+      <link>https://www.kozielbrian.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/home/publications/</guid>
+      <guid>https://www.kozielbrian.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://kozielbrian.github.io/home/tags/</link>
+      <link>https://www.kozielbrian.com/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/home/tags/</guid>
+      <guid>https://www.kozielbrian.com/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pictures</title>
-      <link>https://kozielbrian.github.io/home/pictures/</link>
+      <link>https://www.kozielbrian.com/home/pictures/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/home/pictures/</guid>
+      <guid>https://www.kozielbrian.com/home/pictures/</guid>
       <description>Here are some of my favorite pictures :)
 Finishing my first marathon at the 2013 Columbus Marathon. Very pleased with my 2:49 time (~6:30 average mile pace). Next goal is to reach my dad&amp;rsquo;s 2:35 marathon time! Traveling to Taipei for CHES 2017! I had an amazing time frolicking around the city and meeting many researchers at the conference.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://kozielbrian.github.io/home/contact/</link>
+      <link>https://www.kozielbrian.com/home/contact/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/home/contact/</guid>
+      <guid>https://www.kozielbrian.com/home/contact/</guid>
       <description></description>
     </item>
     

@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-Quantum Cryptography on Brian Koziel</title>
-    <link>https://kozielbrian.github.io/tags/post-quantum-cryptography/</link>
+    <link>https://www.kozielbrian.com/tags/post-quantum-cryptography/</link>
     <description>Recent content in Post-Quantum Cryptography on Brian Koziel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 21 Jul 2018 23:54:25 -0400</lastBuildDate>
     
-	<atom:link href="https://kozielbrian.github.io/tags/post-quantum-cryptography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kozielbrian.com/tags/post-quantum-cryptography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A High-Performance and Scalable Hardware Architecture for Isogeny-Based Cryptography</title>
-      <link>https://kozielbrian.github.io/publication/ieee-tc-pqc/</link>
+      <link>https://www.kozielbrian.com/publication/ieee-tc-pqc/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/ieee-tc-pqc/</guid>
+      <guid>https://www.kozielbrian.com/publication/ieee-tc-pqc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Exposure Model for Supersingular Isogeny Diffie-Hellman Key Exchange</title>
-      <link>https://kozielbrian.github.io/publication/ct-rsa-2017/</link>
+      <link>https://www.kozielbrian.com/publication/ct-rsa-2017/</link>
       <pubDate>Sun, 22 Apr 2018 00:34:03 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/ct-rsa-2017/</guid>
+      <guid>https://www.kozielbrian.com/publication/ct-rsa-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side-Channel Attacks on Quantum-Resistant Supersingular Isogeny Diffie-Hellman</title>
-      <link>https://kozielbrian.github.io/publication/sac-2017/</link>
+      <link>https://www.kozielbrian.com/publication/sac-2017/</link>
       <pubDate>Tue, 22 Aug 2017 00:40:17 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/sac-2017/</guid>
+      <guid>https://www.kozielbrian.com/publication/sac-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Secure Implementations of Quantum-Resistant Supersingular Isogeny Diffie-Hellman</title>
-      <link>https://kozielbrian.github.io/publication/host-2017/</link>
+      <link>https://www.kozielbrian.com/publication/host-2017/</link>
       <pubDate>Mon, 22 May 2017 01:31:51 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/host-2017/</guid>
+      <guid>https://www.kozielbrian.com/publication/host-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-Quantum Cryptography on FPGA Based on Isogenies on Elliptic Curves</title>
-      <link>https://kozielbrian.github.io/publication/ieee-tcas-2017/</link>
+      <link>https://www.kozielbrian.com/publication/ieee-tcas-2017/</link>
       <pubDate>Sun, 22 Jan 2017 00:25:01 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/ieee-tcas-2017/</guid>
+      <guid>https://www.kozielbrian.com/publication/ieee-tcas-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Hardware Architectures for Supersingular Isogeny Diffie-Hellman Key Exchange on FPGA</title>
-      <link>https://kozielbrian.github.io/publication/indocrypt-2016/</link>
+      <link>https://www.kozielbrian.com/publication/indocrypt-2016/</link>
       <pubDate>Thu, 22 Dec 2016 01:00:42 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/indocrypt-2016/</guid>
+      <guid>https://www.kozielbrian.com/publication/indocrypt-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Fast Calculation of Addition Chains for Isogeny-Based Cryptography</title>
-      <link>https://kozielbrian.github.io/publication/inscrypt-2016/</link>
+      <link>https://www.kozielbrian.com/publication/inscrypt-2016/</link>
       <pubDate>Tue, 22 Nov 2016 01:15:02 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/inscrypt-2016/</guid>
+      <guid>https://www.kozielbrian.com/publication/inscrypt-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEON-SIDH: Efficient Implementation of Supersingular Isogeny Diffie-Hellman Key Exchange Protocol on ARM</title>
-      <link>https://kozielbrian.github.io/publication/cans-2016/</link>
+      <link>https://www.kozielbrian.com/publication/cans-2016/</link>
       <pubDate>Tue, 22 Nov 2016 01:08:04 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/cans-2016/</guid>
+      <guid>https://www.kozielbrian.com/publication/cans-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key Compression for Isogeny-Based Cryptosystems</title>
-      <link>https://kozielbrian.github.io/publication/asiapkc-2016/</link>
+      <link>https://www.kozielbrian.com/publication/asiapkc-2016/</link>
       <pubDate>Wed, 22 Jun 2016 00:55:04 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/asiapkc-2016/</guid>
+      <guid>https://www.kozielbrian.com/publication/asiapkc-2016/</guid>
       <description></description>
     </item>
     

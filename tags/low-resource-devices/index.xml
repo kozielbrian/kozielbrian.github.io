@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Low-Resource Devices on Brian Koziel</title>
-    <link>https://kozielbrian.github.io/tags/low-resource-devices/</link>
+    <link>https://www.kozielbrian.com/tags/low-resource-devices/</link>
     <description>Recent content in Low-Resource Devices on Brian Koziel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 24 May 2016 21:31:23 -0500</lastBuildDate>
     
-	<atom:link href="https://kozielbrian.github.io/tags/low-resource-devices/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kozielbrian.com/tags/low-resource-devices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Low-Resource and Fast Elliptic Curve Implementations over Binary Edwards Curves</title>
-      <link>https://kozielbrian.github.io/publication/ms-thesis/</link>
+      <link>https://www.kozielbrian.com/publication/ms-thesis/</link>
       <pubDate>Tue, 24 May 2016 21:31:23 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/ms-thesis/</guid>
+      <guid>https://www.kozielbrian.com/publication/ms-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-Resource and Fast Binary Edwards Curves Cryptography</title>
-      <link>https://kozielbrian.github.io/publication/indocrypt-2015/</link>
+      <link>https://www.kozielbrian.com/publication/indocrypt-2015/</link>
       <pubDate>Tue, 22 Dec 2015 01:22:22 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/publication/indocrypt-2015/</guid>
+      <guid>https://www.kozielbrian.com/publication/indocrypt-2015/</guid>
       <description></description>
     </item>
     

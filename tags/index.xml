@@ -2,166 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brian Koziel</title>
-    <link>https://kozielbrian.github.io/tags/</link>
+    <link>https://www.kozielbrian.com/tags/</link>
     <description>Recent content in Tags on Brian Koziel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 22 Nov 2016 01:08:04 -0400</lastBuildDate>
     
-	<atom:link href="https://kozielbrian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kozielbrian.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ARM Embedded Procesors</title>
-      <link>https://kozielbrian.github.io/tags/arm-embedded-procesors/</link>
+      <link>https://www.kozielbrian.com/tags/arm-embedded-procesors/</link>
       <pubDate>Tue, 22 Nov 2016 01:08:04 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/arm-embedded-procesors/</guid>
+      <guid>https://www.kozielbrian.com/tags/arm-embedded-procesors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Addition Chains</title>
-      <link>https://kozielbrian.github.io/tags/addition-chains/</link>
+      <link>https://www.kozielbrian.com/tags/addition-chains/</link>
       <pubDate>Tue, 22 Nov 2016 01:15:02 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/addition-chains/</guid>
+      <guid>https://www.kozielbrian.com/tags/addition-chains/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assembly Implementation</title>
-      <link>https://kozielbrian.github.io/tags/assembly-implementation/</link>
+      <link>https://www.kozielbrian.com/tags/assembly-implementation/</link>
       <pubDate>Tue, 22 Nov 2016 01:08:04 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/assembly-implementation/</guid>
+      <guid>https://www.kozielbrian.com/tags/assembly-implementation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binary Edwards Curves</title>
-      <link>https://kozielbrian.github.io/tags/binary-edwards-curves/</link>
+      <link>https://www.kozielbrian.com/tags/binary-edwards-curves/</link>
       <pubDate>Tue, 24 May 2016 21:31:23 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/binary-edwards-curves/</guid>
+      <guid>https://www.kozielbrian.com/tags/binary-edwards-curves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crypto-Processor</title>
-      <link>https://kozielbrian.github.io/tags/crypto-processor/</link>
+      <link>https://www.kozielbrian.com/tags/crypto-processor/</link>
       <pubDate>Tue, 24 May 2016 21:31:23 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/crypto-processor/</guid>
+      <guid>https://www.kozielbrian.com/tags/crypto-processor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elliptic Curve Cryptography</title>
-      <link>https://kozielbrian.github.io/tags/elliptic-curve-cryptography/</link>
+      <link>https://www.kozielbrian.com/tags/elliptic-curve-cryptography/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/elliptic-curve-cryptography/</guid>
+      <guid>https://www.kozielbrian.com/tags/elliptic-curve-cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exposure Model</title>
-      <link>https://kozielbrian.github.io/tags/exposure-model/</link>
+      <link>https://www.kozielbrian.com/tags/exposure-model/</link>
       <pubDate>Sun, 22 Apr 2018 00:34:03 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/exposure-model/</guid>
+      <guid>https://www.kozielbrian.com/tags/exposure-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Field Programmable Gate Array</title>
-      <link>https://kozielbrian.github.io/tags/field-programmable-gate-array/</link>
+      <link>https://www.kozielbrian.com/tags/field-programmable-gate-array/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/field-programmable-gate-array/</guid>
+      <guid>https://www.kozielbrian.com/tags/field-programmable-gate-array/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finite Field Arithmetic</title>
-      <link>https://kozielbrian.github.io/tags/finite-field-arithmetic/</link>
+      <link>https://www.kozielbrian.com/tags/finite-field-arithmetic/</link>
       <pubDate>Tue, 22 Nov 2016 01:15:02 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/finite-field-arithmetic/</guid>
+      <guid>https://www.kozielbrian.com/tags/finite-field-arithmetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussian Normal Basis</title>
-      <link>https://kozielbrian.github.io/tags/gaussian-normal-basis/</link>
+      <link>https://www.kozielbrian.com/tags/gaussian-normal-basis/</link>
       <pubDate>Tue, 24 May 2016 21:31:23 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/gaussian-normal-basis/</guid>
+      <guid>https://www.kozielbrian.com/tags/gaussian-normal-basis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware Architectures</title>
-      <link>https://kozielbrian.github.io/tags/hardware-architectures/</link>
+      <link>https://www.kozielbrian.com/tags/hardware-architectures/</link>
       <pubDate>Mon, 22 May 2017 01:31:51 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/hardware-architectures/</guid>
+      <guid>https://www.kozielbrian.com/tags/hardware-architectures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Isogeny-Based Cryptography</title>
-      <link>https://kozielbrian.github.io/tags/isogeny-based-cryptography/</link>
+      <link>https://www.kozielbrian.com/tags/isogeny-based-cryptography/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/isogeny-based-cryptography/</guid>
+      <guid>https://www.kozielbrian.com/tags/isogeny-based-cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key Compression</title>
-      <link>https://kozielbrian.github.io/tags/key-compression/</link>
+      <link>https://www.kozielbrian.com/tags/key-compression/</link>
       <pubDate>Wed, 22 Jun 2016 00:55:04 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/key-compression/</guid>
+      <guid>https://www.kozielbrian.com/tags/key-compression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-Resource Devices</title>
-      <link>https://kozielbrian.github.io/tags/low-resource-devices/</link>
+      <link>https://www.kozielbrian.com/tags/low-resource-devices/</link>
       <pubDate>Tue, 24 May 2016 21:31:23 -0500</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/low-resource-devices/</guid>
+      <guid>https://www.kozielbrian.com/tags/low-resource-devices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Point Multiplication</title>
-      <link>https://kozielbrian.github.io/tags/point-multiplication/</link>
+      <link>https://www.kozielbrian.com/tags/point-multiplication/</link>
       <pubDate>Tue, 22 Dec 2015 01:22:22 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/point-multiplication/</guid>
+      <guid>https://www.kozielbrian.com/tags/point-multiplication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-Quantum Cryptography</title>
-      <link>https://kozielbrian.github.io/tags/post-quantum-cryptography/</link>
+      <link>https://www.kozielbrian.com/tags/post-quantum-cryptography/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/post-quantum-cryptography/</guid>
+      <guid>https://www.kozielbrian.com/tags/post-quantum-cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side-Channel Analysis</title>
-      <link>https://kozielbrian.github.io/tags/side-channel-analysis/</link>
+      <link>https://www.kozielbrian.com/tags/side-channel-analysis/</link>
       <pubDate>Tue, 22 Aug 2017 00:40:17 -0400</pubDate>
       
-      <guid>https://kozielbrian.github.io/tags/side-channel-analysis/</guid>
+      <guid>https://www.kozielbrian.com/tags/side-channel-analysis/</guid>
       <description></description>
     </item>
     
