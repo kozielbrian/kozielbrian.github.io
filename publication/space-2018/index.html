@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="We present a method for key compression in quantum-resistant isogeny-based cryptosystems, which allows a reduction in and transmission costs of per-party public information by a factor of two, with no e ect on security. We achieve this reduction by associating a canonical choice of elliptic curve to each j-invariant, and representing elements on the curve as linear combinations with respect to a canonical choice of basis. This method of compressing public information can be applied to numerous isogeny-based protocols, such as key exchange, zero-knowledge identi cation, and public-key encryption. We performed personal computer and ARM implementations of the key exchange with compression and decompression in C and provided timing results, showing the computational cost of key compression and decompression at various security levels. Our results show that isogeny-based cryptosystems achieve by far the smallest possible key sizes among all existing families of post-quantum cryptosystems at practical security levels; e.g. 3073-bit public keys at the quantum 128-bit security level, comparable to (non-quantum) RSA key sizes.">
+  <meta name="description" content="Problems relating to the computation of isogenies between elliptic curves defined over finite fields have been studied for a long time. Isogenies on supersingular elliptic curves are a candidate for quantum-safe key exchange protocols because the best known classical and quantum algorithms for solving well-formed instances of the isogeny problem are exponential. We propose an implementation of supersingular isogeny Diffie-Hellman (SIDH) key exchange for complete Edwards curves. Our work is motivated by the use of Edwards curves to speed up many cryptographic protocols and improve security. Our work does not actually provide a faster implementation of SIDH, but the use of complete Edwards curves and their complete addition formulae provides security benefits against side-channel attacks. We provide run time complexity analysis and operation counts for the proposed key exchange based on Edwards curves along with comparisons to the Montgomery form.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.kozielbrian.com/publication/asiapkc-2016/">
+  <link rel="alternate" hreflang="en-us" href="https://www.kozielbrian.com/publication/space-2018/">
 
   
 
@@ -86,26 +86,26 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://www.kozielbrian.com/publication/asiapkc-2016/">
+  <link rel="canonical" href="https://www.kozielbrian.com/publication/space-2018/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Brian Koziel">
-  <meta property="og:url" content="https://www.kozielbrian.com/publication/asiapkc-2016/">
-  <meta property="og:title" content="Key Compression for Isogeny-Based Cryptosystems | Brian Koziel">
-  <meta property="og:description" content="We present a method for key compression in quantum-resistant isogeny-based cryptosystems, which allows a reduction in and transmission costs of per-party public information by a factor of two, with no e ect on security. We achieve this reduction by associating a canonical choice of elliptic curve to each j-invariant, and representing elements on the curve as linear combinations with respect to a canonical choice of basis. This method of compressing public information can be applied to numerous isogeny-based protocols, such as key exchange, zero-knowledge identi cation, and public-key encryption. We performed personal computer and ARM implementations of the key exchange with compression and decompression in C and provided timing results, showing the computational cost of key compression and decompression at various security levels. Our results show that isogeny-based cryptosystems achieve by far the smallest possible key sizes among all existing families of post-quantum cryptosystems at practical security levels; e.g. 3073-bit public keys at the quantum 128-bit security level, comparable to (non-quantum) RSA key sizes.">
+  <meta property="og:url" content="https://www.kozielbrian.com/publication/space-2018/">
+  <meta property="og:title" content="EdSIDH: Supersingular Isogeny Diffie-Hellman on Edwards Curves | Brian Koziel">
+  <meta property="og:description" content="Problems relating to the computation of isogenies between elliptic curves defined over finite fields have been studied for a long time. Isogenies on supersingular elliptic curves are a candidate for quantum-safe key exchange protocols because the best known classical and quantum algorithms for solving well-formed instances of the isogeny problem are exponential. We propose an implementation of supersingular isogeny Diffie-Hellman (SIDH) key exchange for complete Edwards curves. Our work is motivated by the use of Edwards curves to speed up many cryptographic protocols and improve security. Our work does not actually provide a faster implementation of SIDH, but the use of complete Edwards curves and their complete addition formulae provides security benefits against side-channel attacks. We provide run time complexity analysis and operation counts for the proposed key exchange based on Edwards curves along with comparisons to the Montgomery form.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-06-22T00:55:04-04:00">
+  <meta property="article:published_time" content="2018-12-07T18:36:16-06:00">
   
-  <meta property="article:modified_time" content="2016-06-22T00:55:04-04:00">
-  
-
+  <meta property="article:modified_time" content="2018-12-07T18:36:16-06:00">
   
 
   
 
-  <title>Key Compression for Isogeny-Based Cryptosystems | Brian Koziel</title>
+  
+
+  <title>EdSIDH: Supersingular Isogeny Diffie-Hellman on Edwards Curves | Brian Koziel</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -244,10 +244,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Key Compression for Isogeny-Based Cryptosystems</h1>
+    <h1 itemprop="name">EdSIDH: Supersingular Isogeny Diffie-Hellman on Edwards Curves</h1>
     <span class="pub-authors" itemprop="author">
       
-      R. Azarderakhsh, D. Jao, K. Kalach, <strong>B. Koziel</strong>, C. Leonardi
+      R. Azarderakhsh, D. Jao, <strong>B. Koziel</strong>, E. B. Lang
       
     </span>
     <span class="pull-right">
@@ -256,35 +256,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Key%20Compression%20for%20Isogeny-Based%20Cryptosystems&amp;url=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fasiapkc-2016%2f"
+         href="https://twitter.com/intent/tweet?text=EdSIDH%3a%20Supersingular%20Isogeny%20Diffie-Hellman%20on%20Edwards%20Curves&amp;url=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fspace-2018%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fasiapkc-2016%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fspace-2018%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fasiapkc-2016%2f&amp;title=Key%20Compression%20for%20Isogeny-Based%20Cryptosystems"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fspace-2018%2f&amp;title=EdSIDH%3a%20Supersingular%20Isogeny%20Diffie-Hellman%20on%20Edwards%20Curves"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fasiapkc-2016%2f&amp;title=Key%20Compression%20for%20Isogeny-Based%20Cryptosystems"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fspace-2018%2f&amp;title=EdSIDH%3a%20Supersingular%20Isogeny%20Diffie-Hellman%20on%20Edwards%20Curves"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Key%20Compression%20for%20Isogeny-Based%20Cryptosystems&amp;body=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fasiapkc-2016%2f">
+         href="mailto:?subject=EdSIDH%3a%20Supersingular%20Isogeny%20Diffie-Hellman%20on%20Edwards%20Curves&amp;body=https%3a%2f%2fwww.kozielbrian.com%2fpublication%2fspace-2018%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -298,7 +298,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We present a method for key compression in quantum-resistant isogeny-based cryptosystems, which allows a reduction in and transmission costs of per-party public information by a factor of two, with no e ect on security. We achieve this reduction by associating a canonical choice of elliptic curve to each j-invariant, and representing elements on the curve as linear combinations with respect to a canonical choice of basis. This method of compressing public information can be applied to numerous isogeny-based protocols, such as key exchange, zero-knowledge identi cation, and public-key encryption. We performed personal computer and ARM implementations of the key exchange with compression and decompression in C and provided timing results, showing the computational cost of key compression and decompression at various security levels. Our results show that isogeny-based cryptosystems achieve by far the smallest possible key sizes among all existing families of post-quantum cryptosystems at practical security levels; e.g. 3073-bit public keys at the quantum 128-bit security level, comparable to (non-quantum) RSA key sizes.</p>
+    <p class="pub-abstract" itemprop="text">Problems relating to the computation of isogenies between elliptic curves defined over finite fields have been studied for a long time. Isogenies on supersingular elliptic curves are a candidate for quantum-safe key exchange protocols because the best known classical and quantum algorithms for solving well-formed instances of the isogeny problem are exponential. We propose an implementation of supersingular isogeny Diffie-Hellman (SIDH) key exchange for complete Edwards curves. Our work is motivated by the use of Edwards curves to speed up many cryptographic protocols and improve security. Our work does not actually provide a faster implementation of SIDH, but the use of complete Edwards curves and their complete addition formulae provides security benefits against side-channel attacks. We provide run time complexity analysis and operation counts for the proposed key exchange based on Edwards curves along with comparisons to the Montgomery form.</p>
     
 
     
@@ -327,7 +327,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 3rd ACM International Workshop on ASIA Public-Key Cryptography, AsiaPKC@AsiaCCS, Xi&rsquo;an, China, May 30 - June 03, 2016</div>
+          <div class="col-xs-12 col-sm-9">Security, Privacy, and Applied Cryptography Engineering - 8th International Conference, SPACE 2018, Kanpur, India, December 15-19, 2018, Proceedings</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -341,7 +341,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            June, 2016
+            December, 2018
           </div>
         </div>
       </div>
@@ -361,7 +361,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://dl.acm.org/citation.cfm?doid=2898420.2898421" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://link.springer.com/chapter/10.1007/978-3-030-05072-6_8" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -396,13 +396,11 @@
 
 <div class="article-tags">
   
-  <a class="label label-default" href="https://www.kozielbrian.com/tags/elliptic-curve-cryptography/">Elliptic Curve Cryptography</a>
+  <a class="label label-default" href="https://www.kozielbrian.com/tags/edwards-curves/">Edwards Curves</a>
   
-  <a class="label label-default" href="https://www.kozielbrian.com/tags/isogeny-based-cryptography/">Isogeny-Based Cryptography</a>
+  <a class="label label-default" href="https://www.kozielbrian.com/tags/isogeny-arithmetic/">Isogeny Arithmetic</a>
   
-  <a class="label label-default" href="https://www.kozielbrian.com/tags/key-compression/">Key Compression</a>
-  
-  <a class="label label-default" href="https://www.kozielbrian.com/tags/post-quantum-cryptography/">Post-Quantum Cryptography</a>
+  <a class="label label-default" href="https://www.kozielbrian.com/tags/supersingular-isogeny-diffie-hellman-key-exchange/">Supersingular Isogeny Diffie-Hellman Key Exchange</a>
   
 </div>
 

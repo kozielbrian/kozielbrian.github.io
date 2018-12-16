@@ -58,6 +58,15 @@
     </item>
     
     <item>
+      <title>Edwards Curves</title>
+      <link>https://www.kozielbrian.com/tags/edwards-curves/</link>
+      <pubDate>Fri, 07 Dec 2018 18:36:16 -0600</pubDate>
+      
+      <guid>https://www.kozielbrian.com/tags/edwards-curves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Elliptic Curve Cryptography</title>
       <link>https://www.kozielbrian.com/tags/elliptic-curve-cryptography/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
@@ -112,6 +121,15 @@
     </item>
     
     <item>
+      <title>Isogeny Arithmetic</title>
+      <link>https://www.kozielbrian.com/tags/isogeny-arithmetic/</link>
+      <pubDate>Fri, 07 Dec 2018 18:36:16 -0600</pubDate>
+      
+      <guid>https://www.kozielbrian.com/tags/isogeny-arithmetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Isogeny-Based Cryptography</title>
       <link>https://www.kozielbrian.com/tags/isogeny-based-cryptography/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
@@ -162,6 +180,15 @@
       <pubDate>Tue, 22 Aug 2017 00:40:17 -0400</pubDate>
       
       <guid>https://www.kozielbrian.com/tags/side-channel-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersingular Isogeny Diffie-Hellman Key Exchange</title>
+      <link>https://www.kozielbrian.com/tags/supersingular-isogeny-diffie-hellman-key-exchange/</link>
+      <pubDate>Fri, 07 Dec 2018 18:36:16 -0600</pubDate>
+      
+      <guid>https://www.kozielbrian.com/tags/supersingular-isogeny-diffie-hellman-key-exchange/</guid>
       <description></description>
     </item>
     

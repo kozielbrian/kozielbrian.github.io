@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://www.kozielbrian.com/publication/space-2018/</loc>
+      <lastmod>2018-12-07T18:36:16-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://www.kozielbrian.com/publication/ieee-tc-pqc/</loc>
       <lastmod>2018-07-21T23:54:25-04:00</lastmod>
     </url>
@@ -142,7 +151,7 @@
     <url>
     
       <loc>https://www.kozielbrian.com/publication_types/1/</loc>
-      <lastmod>2018-04-22T00:34:03-04:00</lastmod>
+      <lastmod>2018-12-07T18:36:16-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -230,6 +239,16 @@
     
     <url>
     
+      <loc>https://www.kozielbrian.com/tags/edwards-curves/</loc>
+      <lastmod>2018-12-07T18:36:16-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://www.kozielbrian.com/tags/elliptic-curve-cryptography/</loc>
       <lastmod>2018-07-21T23:54:25-04:00</lastmod>
       <priority>0</priority>
@@ -282,6 +301,16 @@
     
       <loc>https://www.kozielbrian.com/tags/hardware-architectures/</loc>
       <lastmod>2017-05-22T01:31:51-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.kozielbrian.com/tags/isogeny-arithmetic/</loc>
+      <lastmod>2018-12-07T18:36:16-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -352,6 +381,16 @@
     
       <loc>https://www.kozielbrian.com/tags/side-channel-analysis/</loc>
       <lastmod>2017-08-22T00:40:17-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.kozielbrian.com/tags/supersingular-isogeny-diffie-hellman-key-exchange/</loc>
+      <lastmod>2018-12-07T18:36:16-06:00</lastmod>
       <priority>0</priority>
     </url>
     

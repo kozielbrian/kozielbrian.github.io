@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>EdSIDH: Supersingular Isogeny Diffie-Hellman on Edwards Curves</title>
+      <link>https://www.kozielbrian.com/publication/space-2018/</link>
+      <pubDate>Fri, 07 Dec 2018 18:36:16 -0600</pubDate>
+      
+      <guid>https://www.kozielbrian.com/publication/space-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A High-Performance and Scalable Hardware Architecture for Isogeny-Based Cryptography</title>
       <link>https://www.kozielbrian.com/publication/ieee-tc-pqc/</link>
       <pubDate>Sat, 21 Jul 2018 23:54:25 -0400</pubDate>
